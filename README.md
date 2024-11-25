@@ -17,4 +17,4 @@ Benign lung tissue
 
 The repository contains implementations of image processing pipelines, feature extraction, and classification methods tailored to this subset of the dataset.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/478483be-e566-4a76-b665-9fe44b3e42eb)
